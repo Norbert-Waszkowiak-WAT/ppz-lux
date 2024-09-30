@@ -10,16 +10,6 @@ Strona internetowa schroniska - Przeglądaj, rezerwuj i umawiaj się na spotkani
 
 
 
-
-
-
-
-
-
-
-
-
-
 3. Skład zespołu
 •	Gabriela Kozioł 
 •	Marika Matłas 
