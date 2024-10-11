@@ -4,22 +4,6 @@
 Plan projektu: Strona internetowa schroniska dla zwierząt
 1. Tytuł projektu
 Strona internetowa schroniska - Przeglądaj, rezerwuj i umawiaj się na spotkania ze zwierzętami
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3. Skład zespołu
 •	Gabriela Kozioł 
 •	Marika Matłas 
