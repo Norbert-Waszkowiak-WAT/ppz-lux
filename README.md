@@ -38,8 +38,8 @@ Opis: Frontend komunikuje się z backendem przez API, backend zapisuje dane w ba
 ### Etap 1: Planowanie i projektowanie 
 -	Opracowanie specyfikacji funkcjonalności.
 -	Przygotowanie makiet interfejsu użytkownika.
+-	Stworzenie szkieletu szkoły (Gabriela Kozioł)
 ### Etap 2: Implementacja Frontend 
--	Tworzenie szkieletu strony (HTML, CSS) (Gabriela Kozioł).
 -	Implementacja funkcji rejestracji i logowania.
 -	Przeglądanie zwierząt (wyświetlanie z bazy danych).
 ### Etap 3: Implementacja Backend 
