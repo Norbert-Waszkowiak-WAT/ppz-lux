@@ -2,15 +2,15 @@
 # ppz_empty_with_gitignore
 
 Plan projektu: Strona internetowa schroniska dla zwierząt
-1. Tytuł projektu
+## 1. Tytuł projektu
 Strona internetowa schroniska - Przeglądaj, rezerwuj i umawiaj się na spotkania ze zwierzętami
-3. Skład zespołu
+## 2. Skład zespołu
  - Gabriela Kozioł 
  - Marika Matłas 
  - Lidia Radzikowska 
-4. Cel główny projektu
+## 3. Cel główny projektu
 Umożliwienie użytkownikom przeglądania zwierząt dostępnych w schronisku, rezerwacji wybranych zwierząt oraz umawiania się na spotkania w celu adopcji.
-5. Zakres funkcjonalności
+## 4. Zakres funkcjonalności
 Moduły:
 •	Rejestracja i logowanie: Umożliwienie tworzenia konta i logowania się przez e-mail lub numer telefonu.
 •	Przeglądanie zwierząt: Użytkownicy mogą przeglądać listę zwierząt z opcjami filtracji (rasa, wiek, płeć, osobowość).
@@ -23,18 +23,18 @@ Minimalna wersja produktu (MVP):
 •	Rejestracja i logowanie.
 •	Przeglądanie dostępnych zwierząt.
 •	Rezerwacja wybranego zwierzaka.
-6. Technologie
+## 5. Technologie
 •	Języki programowania: HTML, CSS, JavaScript 
 •	Frameworki: React/Vue (frontend), Django/Flask (backend)
 •	Baza danych: MySQL
 •	Narzędzia: Git, Firebase (do powiadomień)
-7. Architektura systemu
+## 6. Architektura systemu
 Diagram:
 •	Frontend: Interfejs użytkownika (aplikacja webowa)
 •	Backend: Serwer aplikacji zarządzający logiką i danymi
 •	Baza danych: Przechowywanie informacji o zwierzętach, użytkownikach i rezerwacjach
 Opis: Frontend komunikuje się z backendem przez API, backend zapisuje dane w bazie danych, powiadomienia o dostępnych zwierzętach realizowane przez Firebase.
-8. Harmonogram prac
+## 7. Harmonogram prac
 Etap 1: Planowanie i projektowanie 
 •	Opracowanie specyfikacji funkcjonalności.
 •	Przygotowanie makiet interfejsu użytkownika.
