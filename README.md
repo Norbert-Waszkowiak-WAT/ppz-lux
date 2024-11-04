@@ -5,9 +5,9 @@ Plan projektu: Strona internetowa schroniska dla zwierząt
 1. Tytuł projektu
 Strona internetowa schroniska - Przeglądaj, rezerwuj i umawiaj się na spotkania ze zwierzętami
 3. Skład zespołu
-•	Gabriela Kozioł 
-•	Marika Matłas 
-•	Lidia Radzikowska 
+ - Gabriela Kozioł 
+ - Marika Matłas 
+ - Lidia Radzikowska 
 4. Cel główny projektu
 Umożliwienie użytkownikom przeglądania zwierząt dostępnych w schronisku, rezerwacji wybranych zwierząt oraz umawiania się na spotkania w celu adopcji.
 5. Zakres funkcjonalności
