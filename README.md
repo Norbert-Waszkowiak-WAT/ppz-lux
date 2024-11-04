@@ -45,9 +45,9 @@ Opis: Frontend komunikuje się z backendem przez API, backend zapisuje dane w ba
 ### Etap 3: Implementacja Backend 
 -	 Ustalenie struktury bazy danych( Marika Matłas)
 -	Tworzenie API do obsługi rejestracji, logowania, przeglądania i rezerwacji.
--	Implementacja systemu powiadomień(Lidia Radzikowska).
-### Etap 4: Integracja i testowanie 
 -	Połączenie frontend z backend.
+### Etap 4: Integracja i testowanie 
+-	Stworzenie systemu powiadomień(Lidia Radzikowska).
 -	Testowanie funkcjonalności (rejestracja, rezerwacja, powiadomienia).
 ## 8. Kryteria sukcesu
 - Użytkownicy mogą łatwo rejestrować się, logować, przeglądać zwierzęta i rezerwować je.
