@@ -35,18 +35,18 @@ Diagram:
 -	Baza danych: Przechowywanie informacji o zwierzętach, użytkownikach i rezerwacjach
 Opis: Frontend komunikuje się z backendem przez API, backend zapisuje dane w bazie danych, powiadomienia o dostępnych zwierzętach realizowane przez Firebase.
 ## 7. Harmonogram prac
-Etap 1: Planowanie i projektowanie 
+### Etap 1: Planowanie i projektowanie 
 -	Opracowanie specyfikacji funkcjonalności.
 -	Przygotowanie makiet interfejsu użytkownika.
-Etap 2: Implementacja Frontend 
+### Etap 2: Implementacja Frontend 
 -	Tworzenie szkieletu strony (HTML, CSS) (Gabriela Kozioł).
 -	Implementacja funkcji rejestracji i logowania.
 -	Przeglądanie zwierząt (wyświetlanie z bazy danych).
-Etap 3: Implementacja Backend 
+### Etap 3: Implementacja Backend 
 -	 Ustalenie struktury bazy danych( Marika Matłas)
 -	Tworzenie API do obsługi rejestracji, logowania, przeglądania i rezerwacji.
 -	Implementacja systemu powiadomień(Lidia Radzikowska).
-Etap 4: Integracja i testowanie 
+### Etap 4: Integracja i testowanie 
 -	Połączenie frontend z backend.
 -	Testowanie funkcjonalności (rejestracja, rezerwacja, powiadomienia).
 ## 8. Kryteria sukcesu
